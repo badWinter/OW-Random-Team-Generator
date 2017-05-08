@@ -1,0 +1,9 @@
+c:\users\jake\documents\visual studio 2015\Projects\OverwatchRandomGenerator\OverwatchRandomGenerator\bin\Debug\OverwatchRandomGenerator.exe.config
+c:\users\jake\documents\visual studio 2015\Projects\OverwatchRandomGenerator\OverwatchRandomGenerator\bin\Debug\OverwatchRandomGenerator.exe
+c:\users\jake\documents\visual studio 2015\Projects\OverwatchRandomGenerator\OverwatchRandomGenerator\bin\Debug\OverwatchRandomGenerator.pdb
+c:\users\jake\documents\visual studio 2015\Projects\OverwatchRandomGenerator\OverwatchRandomGenerator\obj\Debug\OverwatchRandomGenerator.csprojResolveAssemblyReference.cache
+c:\users\jake\documents\visual studio 2015\Projects\OverwatchRandomGenerator\OverwatchRandomGenerator\obj\Debug\OverwatchRandomGenerator.Form1.resources
+c:\users\jake\documents\visual studio 2015\Projects\OverwatchRandomGenerator\OverwatchRandomGenerator\obj\Debug\OverwatchRandomGenerator.Properties.Resources.resources
+c:\users\jake\documents\visual studio 2015\Projects\OverwatchRandomGenerator\OverwatchRandomGenerator\obj\Debug\OverwatchRandomGenerator.csproj.GenerateResource.Cache
+c:\users\jake\documents\visual studio 2015\Projects\OverwatchRandomGenerator\OverwatchRandomGenerator\obj\Debug\OverwatchRandomGenerator.exe
+c:\users\jake\documents\visual studio 2015\Projects\OverwatchRandomGenerator\OverwatchRandomGenerator\obj\Debug\OverwatchRandomGenerator.pdb
